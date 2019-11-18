@@ -5,7 +5,7 @@ Usage:
 
 `git clone https://github.com/H0neyCake/hiit-equal-timer.git`
 
-`cd hiit-equal-timer\nodejs`
+`cd hiit-equal-timer/nodejs`
 
 `npm start` or `node app.js`
 
